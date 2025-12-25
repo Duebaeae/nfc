@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 N:Dubach;Lukas;;;
-FN:Dubach;Lukas
+FN:Dubach Lukas
 ORG:Urs Dubach AG
 TITLE:Inhaber / Geschäftsführer
 TEL;TYPE=CELL:+4179971223
@@ -9,4 +9,5 @@ TEL;TYPE=WORK:+41419340550
 EMAIL:lukas.dubach@ursdubachag.ch
 URL:https://www.ursdubachag.ch
 PHOTO;VALUE=URI:https://files.designer.hoststar.ch/aa/bc/aabc03a0-64d1-4f09-ab8f-a672d91241ec.jpeg
+
 END:VCARD
